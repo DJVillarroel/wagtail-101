@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+
+.footer {
+    color: blue;
+}
+
+.block-heading {
+    font-size: 35px;
+    margin-top: 70px;
+}
+
+.block-image img {
+    width: 30%;
+    height: auto;
+}
+
+
